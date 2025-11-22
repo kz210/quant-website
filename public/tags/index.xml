@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Kun Zhao — Ph.D. Quantitative Strategist</title>
+    <link>https://kz210.github.io/tags/</link>
+    <description>Recent content in Tags on Kun Zhao — Ph.D. Quantitative Strategist</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kz210.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pricing</title>
+      <link>https://kz210.github.io/tags/pricing/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/pricing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://kz210.github.io/tags/python/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quant</title>
+      <link>https://kz210.github.io/tags/quant/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/quant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Derivatives</title>
+      <link>https://kz210.github.io/tags/derivatives/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/derivatives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Volatility</title>
+      <link>https://kz210.github.io/tags/volatility/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/volatility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bootstrapping</title>
+      <link>https://kz210.github.io/tags/bootstrapping/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/bootstrapping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rates</title>
+      <link>https://kz210.github.io/tags/rates/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/rates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://kz210.github.io/tags/optimization/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://kz210.github.io/tags/portfolio/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/tags/portfolio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
