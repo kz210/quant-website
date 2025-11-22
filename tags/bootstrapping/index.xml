@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bootstrapping on Kun Zhao — Ph.D. Quantitative Strategist</title>
+    <link>https://kz210.github.io/tags/bootstrapping/</link>
+    <description>Recent content in Bootstrapping on Kun Zhao — Ph.D. Quantitative Strategist</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kz210.github.io/tags/bootstrapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yield Curve Construction &amp; Bootstrapping</title>
+      <link>https://kz210.github.io/projects/yield-curve/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/projects/yield-curve/</guid>
+      <description>&lt;p&gt;A practical guide to building a smooth, arbitrage-free yield curve using bootstrapping and spline fitting. Includes implementations in Python and C++.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-curve support (OIS, Libor)&lt;/li&gt;
+&lt;li&gt;Spline / parametric fit for smoothness&lt;/li&gt;
+&lt;li&gt;Calibration to market instruments&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

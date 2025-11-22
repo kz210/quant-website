@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Optimization on Kun Zhao — Ph.D. Quantitative Strategist</title>
+    <link>https://kz210.github.io/tags/optimization/</link>
+    <description>Recent content in Optimization on Kun Zhao — Ph.D. Quantitative Strategist</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kz210.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio Optimizer (Mean-Variance &#43; Constraints)</title>
+      <link>https://kz210.github.io/projects/portfolio-optimizer/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://kz210.github.io/projects/portfolio-optimizer/</guid>
+      <description>&lt;p&gt;A constrained portfolio optimizer solving mean-variance with turnover and cardinality constraints. Implements CVX-style optimization and heuristic genetic algorithms for mixed-integer constraints.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quadratic programming formulation&lt;/li&gt;
+&lt;li&gt;L1/L2 regularization and turnover control&lt;/li&gt;
+&lt;li&gt;Backtesting framework included&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
