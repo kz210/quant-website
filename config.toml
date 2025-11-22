@@ -1,0 +1,15 @@
+baseURL = "https://kz210.github.io/"
+languageCode = "en-us"
+title = "Kun Zhao — Ph.D. Quantitative Strategist"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+
+[params]
+  math = true
+  showCurrPage = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
