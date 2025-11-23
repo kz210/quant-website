@@ -1,7 +1,10 @@
 ---
 title: "Monte Carlo Option Pricer"
 date: 2025-01-01
+draft: false
+type: "projects"
 tags: ["quant", "pricing", "python"]
+summary: "MC Simulation."
 ---
 
 A vectorized Monte Carlo engine for pricing European options with variance reduction and benchmarks against Black–Scholes.

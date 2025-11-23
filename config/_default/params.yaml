@@ -1,0 +1,21 @@
+params:
+  homepage:
+    layout: sections
+    intro: true
+    sections:
+      - name: posts
+        title: "Latest Posts"
+        enable: true
+        count: 5
+      - name: projects
+        title: "Featured Projects"
+        enable: true
+        count: 5
+
+
+
+
+
+
+
+

@@ -1,15 +1,15 @@
----
-title: "Kun Zhao —Ph.D. Quantitative Strategist"
-date: 2025-11-22
-draft: false
----
++++
+title = "Home"
++++
 
-Hi — I'm **Kun Zhao**, a VP Quantitative Strategist specializing in derivatives pricing, risk analytics, and quantitative research.
+<!-- Profile already comes from your params.yaml -->
 
-- 📈 Rates, Credit, Cross-Asset Models  
-- 🧮 PDEs, Monte Carlo, Optimization  
-- 🧑‍💻 Python, C++, C#, KDB  
+<center>
 
-[Download CV](file:///mnt/data/RESUME_Kun_Zhao_.docx)
+### 📌 Explore My Work
 
-Welcome to my quant portfolio: projects, research, and technical writing.
+➡️ **[All Posts](/posts/)**  
+➡️ **[All Projects](/projects/)**  
+
+</center>
+

@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<div style="text-align:center; padding-top:1rem;">
+
+  <!-- Profile Image -->
+  <img src="https://avatars.githubusercontent.com/u/16504780?v=4"
+       alt="Profile Image"
+       style="max-width:140px; border-radius:50%; margin-bottom:0.5rem;">
+
+  <!-- Headline DIRECTLY under image -->
+  <h2 style="margin:0; font-weight:600; font-size:1.4rem;">
+    Ph.D. — Quantitative Strategist
+  </h2>
+
+  <!-- Optional description -->
+  {{ if .Site.Params.description }}
+    <p style="margin-top:0.5rem;">{{ .Site.Params.description }}</p>
+  {{ end }}
+
+</div>
+
+<!-- This section now lists ALL posts and projects VERTICALLY -->
+<section style="max-width:700px; margin:2rem auto;">
+
+  <!-- 📝 POSTS -->
+  {{ with .Site.GetPage "section" "posts" }}
+    <h3>📄 All Posts</h3>
+    <ul>
+      {{ range .Pages.ByDate.Reverse }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <!-- 🛠 PROJECTS -->
+  {{ with .Site.GetPage "section" "projects" }}
+    <h3 style="margin-top:2rem;">🛠 All Projects</h3>
+    <ul>
+      {{ range .Pages.ByDate.Reverse }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+  <!-- 👤 ABOUT LINK ONLY -->
+  <h3 style="margin-top:2rem;">👤 About Me</h3>
+  <p><a href="/about/">Read more →</a></p>
+
+</section>
+
+{{ end }}
+

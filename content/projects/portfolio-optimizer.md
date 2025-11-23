@@ -2,6 +2,8 @@
 title: "Portfolio Optimizer (Mean-Variance + Constraints)"
 date: 2024-08-01
 tags: ["portfolio", "optimization", "python"]
+type: "projects"
+draft: false
 ---
 
 A constrained portfolio optimizer solving mean-variance with turnover and cardinality constraints. Implements CVX-style optimization and heuristic genetic algorithms for mixed-integer constraints.

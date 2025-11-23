@@ -1,5 +1,7 @@
 ---
 title: "About"
+type: "page"
+summary: "Background and professional profile."
 date: 2025-11-22
 draft: false
 ---
